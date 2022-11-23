@@ -21,13 +21,7 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: lucas_miranda99@live.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/lucas-ramos-99ba55248/">
-      <img width="25" src="linkedin.svg">
-    </a>
+
     
 </div>
   
