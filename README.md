@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java Developer</p>
+<p align="left">- Analista de Dados</p>
 
 ###
 
