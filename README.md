@@ -1,15 +1,14 @@
-# Hi 👋, I'm Lucas Ramos Miranda
+# Olá 👋, sou Lucas Ramos Miranda
 
-*🚀 Data Analyst focused on turning data into actionable insights*
+🖥️ Suporte Técnico Jr | Infraestrutura, Redes e Linux
 
-*🎓 Graduated in Systems Analysis and Development*
+🎓 Graduado em Análise e Desenvolvimento de Sistemas
 
-🇧🇷 Belo Horizonte – Brazil
-
+📍 Belo Horizonte – BR
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/lucasrm5">
@@ -19,53 +18,62 @@
 
 ---
 
-## 🧠 What I do
+## 🧠 O que faço
 
-I develop practical projects focused on:
+Venho construindo base técnica em infraestrutura, com foco em:
 
-- Python for data manipulation and analysis  
-- SQL for data extraction and organization  
-- Power BI for building dashboards and strategic visualizations  
-
-Currently looking for an opportunity as a Junior Data Analyst to contribute with analytical thinking, structured problem-solving, and continuous improvement.
-
----
-
-## 🛠️ Tech Stack
-
-### 📊 Data Analysis
-
-- Python
-- Pandas
-- NumPy
-- SQL
-- Power BI
-
-
-### 🗄️ Databases
-
-- MySQL / PostgreSQL
-
-### 📈 Data Visualization
-
-- Power BI
-- Matplotlib / Seaborn
+- Diagnóstico e resolução de problemas de hardware e sistema
+- Redes de computadores (TCP/IP, endereçamento, troubleshooting)
+- Administração básica de Linux
+- Boas práticas de atendimento e gestão de incidentes (ITIL)
 
 ---
 
-## ⚙️ Tools
+## 🛠️ Stack Técnica
 
+**Sistemas Operacionais**
+- Linux
+- Windows
+
+**Redes — Conectividade**
+- TCP/IP
+- Endereçamento IPv4
+- DNS
+- DHCP
+
+**Redes — Infraestrutura Física**
+- Wi-Fi
+- Cabeamento estruturado
+- Mapeamento de impressoras
+- Troubleshooting de rede
+
+**Hardware**
+- Montagem e manutenção
+- Diagnóstico de falhas
+
+**Banco de Dados**
+- SQL (consultas e manipulação básica)
+
+**Processos**
+- ITIL (Gestão de Incidentes, Problemas e Mudanças)
+
+**Ferramentas**
 - Git
-- VS Code
-- Jupyter Notebook
+- Terminal / Shell
 
 ---
 
-## 🚀 Philosophy
+### 🔐 Estudando também
 
->  I believe data creates value when it drives better decisions.
-> My goal is to go beyond numbers — understanding problems, simplifying complexity, and delivering insights that truly matter.
+Em paralelo, estudo Cybersecurity (Blue Team/SOC) por conta própria, ainda não é meu foco imediato, mas reforça o que já aprendo em redes e sistemas.
+
 
 ---
 
-🤝 Always open to collaborations, partnerships, and cool ideas
+## 🚀 Filosofia
+
+>  Prefiro entender a causa raiz de um problema antes de sair aplicando solução. Isso vale tanto pra um chamado técnico simples quanto pra algo mais complexo de rede.
+
+---
+
+🤝 Sempre aberto a colaborações, parcerias e boas conversas
